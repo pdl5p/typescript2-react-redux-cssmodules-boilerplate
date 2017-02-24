@@ -19,7 +19,7 @@ const Counter: React.StatelessComponent<{
                         <h1>{'Counter'}</h1>
                         <p>
                             {`
-                                We already counted ${props.counter.counts}
+                                We like to think already counted ${props.counter.counts}
                                 and have a current value of ${props.counter.counter}
                             `}
                         </p>
